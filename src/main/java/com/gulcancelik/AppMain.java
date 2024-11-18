@@ -3,7 +3,7 @@ package com.gulcancelik;
 import java.util.ArrayList;
 import java.util.List;
 
-public class AppMain {
+public class AppMain { 
     public static void main(String[] args) {
 
         Ogretmen ogretmen1 = new Ogretmen();
